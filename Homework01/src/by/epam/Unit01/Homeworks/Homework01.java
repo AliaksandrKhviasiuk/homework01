@@ -1035,11 +1035,6 @@ public class Homework01 {
         else
             System.out.println("false");
 
-
-
-
-
-
     }
 
     public static void task38() {
